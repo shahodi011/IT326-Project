@@ -7,7 +7,7 @@ This project explores an Alzheimer’s Disease dataset that includes details abo
 
 Project Motivation:
 
-Alzheimer’s continues to be a major health concern worldwide. We chose this dataset because it allows us to apply data mining in a meaningful way — not just to work with numbers, but to highlight patterns that could support research, raise awareness, and bring new perspectives on how the disease is understood.
+Alzheimer’s continues to be a major health concern worldwide. We chose this dataset because it allows us to apply data mining in a meaningful way not just to work with numbers, but to highlight patterns that could support research, raise awareness, and bring new perspectives on how the disease is understood.
 
 
 Students Names:
