@@ -1,0 +1,8 @@
+
+Project Goal
+
+The goal of this project is to apply data mining techniques to classify patients by Alzheimer’s disease stage ,We aim to use clustering to group patients with similar traits and uncover hidden patterns.
+
+Dataset Source
+The dataset was obtained from Kaggle:  
+[Alzheimer’s Disease Dataset](https://www.kaggle.com/datasets/rabieelkharoua/alzheimers-disease-dataset)  
