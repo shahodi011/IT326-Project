@@ -11,7 +11,11 @@ Alzheimer’s continues to be a major health concern worldwide. We chose this da
 
 
 Students Names:
+
 -Shahad Alabdulkarim 445202212
--Latifah Almousa 445200360
--Dalal Al       445200220
--Leen Al        445201272
+
+-Latifah  445200360
+
+-Dalal  445200220
+
+-Leen  445201272
