@@ -14,8 +14,8 @@ Students Names:
 
 -Shahad Alabdulkarim 445202212
 
--Latifah  445200360
+-Latifah Almousa 445200360
 
--Dalal  445200220
+-Dalal Alghumlas 445200220
 
 -Leen Mohammad Almuqhim 445201272
